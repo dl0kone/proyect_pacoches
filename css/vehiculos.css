@@ -1,0 +1,168 @@
+.seccion100 {
+	
+
+	background: white;
+	width: 80%;
+	height: 1900px;
+	z-index: -1000;
+	margin-left: 10%;
+	border-left: 1px solid #A9A9A9;
+	border-right: 1px solid #A9A9A9;
+
+
+	
+}
+
+
+
+#pagina{
+
+	height: 500px;
+	margin-top: 100px;
+
+	
+}
+#pagina h2 {
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 20px;
+	background: #3CB371;
+	color: white;
+}
+
+#pagina img {
+	
+	width: 300px;
+	height: 220px;
+	border-radius: 20%;
+	margin-bottom: -30px;
+
+
+
+}
+
+
+
+
+
+
+#pagina article {
+	width: 290px;
+	float: left;
+	margin-left: 100px;
+
+	
+
+
+
+}
+
+#vamos{
+	text-align: center;
+	background:#3CB371;
+	border-radius: 5px;
+	
+	
+
+}
+
+
+
+/* ---- despegable ------------------------------------------------------------- */
+/* PROPIEDADES GENERALES */
+
+
+
+#menu {
+	text-align: center;
+	
+	width: 840px;
+	margin: 20px auto;
+}
+
+#menu ul {
+	list-style-type: none;
+
+}
+
+#menu ul li {
+	width: 262px;
+}
+
+#menu ul li a {
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	background-color: #3CB371;
+	border: solid 2px #fff;
+	padding: 8px;
+	position: relative;
+	border-radius: 4px;
+}
+
+#menu ul li ul li a {
+	width: 160px;
+	padding: 8px 0px;
+	border-top-color: transparent;
+
+}
+
+#menu ul li ul {
+	display: none;
+}
+
+/* PROPIEDADES ESPECÍFICAS */
+
+#menu ul li ul li ul li a.primera {
+	border-top-color: #fff;
+}
+
+#menu ul li.nivel1 { 
+	float: left;
+	margin-right: 1px;
+}
+
+#menu ul li a.nivel2 {
+	color: #000;
+}
+
+#menu ul li a.nivel1, #menu ul li a.nivel2 {
+	display: block;
+	position: relative;
+}
+
+/* PROPIEDAD HOVER */
+
+#menu ul li:hover {
+	position: relative;
+}
+
+#menu ul li a:hover, #menu ul li:hover a.nivel1 {
+	background-color: black;
+	color: #3CB371;
+	position: relative;
+}
+
+#menu ul li:hover  ul.nivel2, #menu ul li a:hover  ul.nivel2{
+	display: block;
+	position: absolute;left: 0px;
+}	
+
+
+
+
+
+
+footer{
+	position: absolute;
+	width: 79.3%;
+	height: 150px;
+	margin-left: 10%;
+	margin-top: 1900px;
+	background: black;
+	border: 1px solid #A9A9A9;
+	z-index: -1000;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	
+}

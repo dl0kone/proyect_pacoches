@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="pacoches.xsl"?>
+<catalogo>
+    <coche>
+        
+        <precio>1981€</precio>
+        <foto>../fotos/turismos/1.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>2546€</precio>
+        <foto>../fotos/turismos/1.png</foto>
+
+    </coche>    <coche>
+        
+        <precio>1982,3€</precio>
+        <foto>../fotos/turismos/2.png</foto>
+
+    </coche>    <coche>
+        
+        <precio>2982,9€</precio>
+        <foto>../fotos/turismos/3.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>11982,3€</precio>
+        <foto>../fotos/turismos/4.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>4482,9€</precio>
+        <foto>../fotos/turismos/5.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>61982,3€</precio>
+        <foto>../fotos/turismos/6.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>12982,4€</precio>
+        <foto>../fotos/gama_alta/11.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>198255€</precio>
+        <foto>../fotos/gama_alta/12.png</foto>
+
+    </coche>
+    
+    <coche>
+        
+        <precio>49823€</precio>
+        <foto>../fotos/gama_alta/13.png</foto>
+
+    </coche>
+    
+    <coche>
+        
+        <precio>41982,8€</precio>
+        <foto>../fotos/gama_alta/14.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>21982,3€</precio>
+        <foto>../fotos/gama_alta/15.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>3382,3€</precio>
+        <foto>../fotos/gama_alta/16.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>1982,3€</precio>
+        <foto>../fotos/motos/33.png</foto>
+
+    </coche>
+    
+    <coche>
+        
+        <precio>1982,4€</precio>
+        <foto>../fotos/motos/34.png</foto>
+
+    </coche>
+    <coche>
+        
+        <precio>2982,3€</precio>
+        <foto>../fotos/motos/35.png</foto>
+
+    </coche>
+ <coche>
+        
+        <precio>8982,3€</precio>
+        <foto>../fotos/motos/36.png</foto>
+
+    </coche>
+ <coche>
+        
+        <precio>982,3€</precio>
+        <foto>../fotos/motos/37.png</foto>
+
+    </coche>
+    
+ <coche>
+        
+        <precio>682,3€</precio>
+        <foto>../fotos/motos/38.png</foto>
+
+    </coche>
+ <coche>
+        
+        <precio>1482,8€</precio>
+        <foto>../fotos/tu_negocio/24.png</foto>
+
+    </coche>
+ <coche>
+        
+        <precio>1982,7€</precio>
+        <foto>../fotos/tu_negocio/26.png</foto>
+
+    </coche>
+ <coche>
+        
+        <precio>19823€</precio>
+        <foto>../fotos/tu_negocio/27.png</foto>
+
+    </coche>
+ <coche>
+        
+        <precio>1982,7€</precio>
+        <foto>../fotos/tu_negocio/28.png</foto>
+
+    </coche>
+ <coche>
+        
+        <precio>982,3€</precio>
+        <foto>../fotos/tu_negocio/29.png</foto>
+
+    </coche>
+</catalogo>

@@ -1,0 +1,384 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/css?family=Cabin|Kaushan+Script');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Cabin|Kaushan+Script|Stalinist+One');
+
+
+
+
+body {
+background-color: white;
+font-family: 'Cabin', sans-serif;
+font-size: 25px;
+color: black;
+}
+
+
+
+h4{
+	font-family: 'Cabin', sans-serif;
+	font-family: 'Kaushan Script', cursive;
+
+}
+
+
+
+/* ---- cabecera ------------------------------------------------------------- */
+header{
+	width: 80%;
+	height: 80px;
+	margin-left: 10%;
+	background: white;
+
+	margin-bottom: 0px;
+	border: 1px solid white;
+	z-index: 1000;
+	border-left: 2px solid #A9A9A9;
+	border-right: 2px solid #A9A9A9;
+	border-bottom: 1px solid #A9A9A9;
+
+
+
+}
+
+nav{
+	
+	z-index: 1000;
+	margin-top: 20px;
+
+
+}
+
+a {
+
+	display: inline;
+	padding: 8px;
+	border-left: 2px solid #3CB371;
+	border-right: 2px solid #3CB371;
+	margin-right: -7px;
+	text-decoration: none;
+	-webkit-transition:  color 0.5s;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #3CB371;
+
+
+}
+
+.pac{
+	position: relative;
+	background: #3CB371;
+	width: 120px;
+	height: 82px;
+	margin-left: 1512px;
+	margin-top: -60px;
+	border-radius: 4px;
+
+}
+.pacc{
+	width: 80px;
+	height: 80px;
+	margin-left: 22px;
+
+}
+
+#aa{
+	margin-left: 475px;
+}
+
+/* ---- /cabecera ------------------------------------------------------------- */
+
+/* ---- /banner ------------------------------------------------------------- */
+.i1 {
+	
+	width: 80%;
+	height: 800px;
+	margin-left: 10%;
+	z-index: -1000;
+	
+	border-left: 1px solid #A9A9A9;
+	border-right: 1px solid #A9A9A9;
+
+	
+	
+}
+
+.i11 {
+	background:#3CB371;
+	width: 79.5%;
+	height: 800px;
+	margin-left: -79.5%;
+	position: absolute;
+	
+	z-index: 0;
+	opacity: 0.5;
+	border-left: 1px solid #A9A9A9;
+	border-right: 1px solid #A9A9A9;
+	
+}
+
+.banner {
+	
+	width: 500px;
+	height: 120px;
+	margin-left: 38%;
+	margin-top: 140px;
+	z-index: 1;
+	position: absolute;
+	border: 1px solid black;
+	background: white;
+	border-radius: 4px;
+	-webkit-transition: margin-left 1.5s, width 1.5s, height 1.5s, background-color 1.5s, color 1.5s;
+
+	
+
+}
+.banner:hover {
+	background: black;
+	width: 920px;
+	height: 140px;
+	margin-left: 27%;
+	
+}
+
+.banner h1{
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+	font-family: 'Kaushan Script', cursive;
+	font-family: 'Bungee Inline', cursive;
+	font-family: 'Stalinist One', cursive;
+	color:#3CB371;
+
+}
+
+.banner h1:hover{
+	color: #3CB371 ;
+
+}
+
+
+.letras {
+	background: black;
+	color: white;
+	width: 240px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+
+
+/* ---- /banner ------------------------------------------------------------- */
+
+/* ---- secciones ------------------------------------------------------------- */
+
+.seccion1 {
+	
+
+	background: white;
+	width: 80%;
+	height: 400px;
+	z-index: -1000;
+	margin-left: 10%;
+	border-left: 1px solid #A9A9A9;
+	border-right: 1px solid #A9A9A9;
+
+
+	
+}
+
+.seccion2 {
+	
+
+	background: white;
+	width: 80%;
+	height: 700px;
+	z-index: -1000;
+	margin-left: 10%;
+	border-left: 1px solid #A9A9A9;
+	border-right: 1px solid #A9A9A9;
+	
+}
+
+.adorno {
+	background: #3CB371;
+	position: absolute;
+	width: 100%;
+	height: 105px;
+	margin-top: 595px;
+	z-index: 1;
+	opacity: 0.5;
+}
+.adorno1 {
+	background: black;
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	margin-top: 600px;
+	z-index: 1;
+}
+/* ---- paginas ------------------------------------------------------------- */
+#paginas{
+
+	height: 500px;
+	margin-top: 5px;
+
+	
+}
+#paginas h2 {
+	margin-left: 70px;
+	padding-top: 10px;
+	margin-top: 0px;
+}
+
+#paginas img {
+	
+	width: 300px;
+	height: 220px;
+	border-radius: 4%;
+	margin-bottom: -30px;
+
+
+}
+
+
+ h3{
+	text-align: center;
+	background:#3CB371;
+	border-radius: 5px;
+	-webkit-transition: background-color 0.5s, color 0.5s, padding-top 0.5s;
+	
+
+}
+ h3:hover{
+	text-align: center;
+	background:black;
+	border-radius: 5px; 
+	color: #3CB371;
+	padding-top: 10px;
+}
+
+h4{
+	color: white;
+	margin-top: 4px;
+	margin-left: 20px;
+}
+
+
+
+#paginas article {
+	width: 290px;
+	float: left;
+	margin-left: 100px;
+
+
+
+}
+.a11 {
+
+	width: 60%;
+	height: 700px;
+	
+	position: absolute;
+
+}
+.a111 {
+
+	width: 100%;
+	height: 700px;
+	
+	position: absolute;
+
+}
+
+select {
+	overflow-y: hidden;
+     border-radius: 4px;
+     float: left;
+     width: 120px;
+     margin: 25px;
+     border: 2px solid #A9A9A9;
+
+    
+		}
+label{
+	margin-left: 5px;
+}
+
+.a12 {
+
+	width: 17%;
+	height: 670px;
+	margin-left: 1273px;
+	position: absolute;
+	border-top: 1px solid #A9A9A9;
+	border-bottom: 1px solid #A9A9A9;
+	border-left: 0px solid #A9A9A9;
+	border-right: 0px solid #A9A9A9;
+
+}
+.a122 input {
+	
+	margin-left: 120px;
+	width: 100px;
+	height: 35px;
+}
+/* ---- /paginas ------------------------------------------------------------- */
+/* ---- seccion2 ------------------------------------------------------------- */
+
+
+/* ---- /seccion2 ------------------------------------------------------------- */
+
+/* ---- /secciones ------------------------------------------------------------- */
+
+/* ---- footer ------------------------------------------------------------- */
+
+footer{
+	width: 80%;
+	height: 150px;
+	margin-left: 10%;
+	background: black;
+	border: 1px solid #A9A9A9;
+	z-index: -1000;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	
+}
+
+#divfo {
+	
+	width: 80%;
+	height: 150px;
+	margin-left: 10%;
+	padding-top: 15px;
+
+}
+
+#pfo {
+	background: #3CB371;
+	text-align: center;
+	color: white
+	
+	
+}
+
+.sociales {
+	width: 100%;
+	text-align: center;
+	font-size: 28px;
+	color: #00FF00;
+}
+
+.sociales a {
+	color: #3CB371;
+	text-decoration: none;
+
+}
+.sociales a:hover{
+	background: #3CB371;
+	color: black;
+}
+
+
+
+/* ---- /footer ------------------------------------------------------------- */
